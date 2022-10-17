@@ -1,4 +1,5 @@
 ## 🔗Project 13 Link
+[live link](https://project-13-live-link.netlify.app/)
 
 # ✨ Project-13 Saas-Landing-Page ✨
 
@@ -28,6 +29,7 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
     👉 How to use SVG images.
 
 ## I took 7-hours to build this project and 5-hours to make it responsive. I really enjoyed it 😊.
+[Email](sainianjali1097@gmail.com)
 
 ## 📌 Acknowledgments
 
