@@ -29,7 +29,8 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
     👉 How to use SVG images.
 
 ## I took 7-hours to build this project and 5-hours to make it responsive. I really enjoyed it 😊.
-[Email](sainianjali1097@gmail.com)
+<br>
+##Email##-sainianjali1097@gmail.com
 
 ## 📌 Acknowledgments
 
